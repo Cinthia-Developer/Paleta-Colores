@@ -1,0 +1,39 @@
+
+h1{
+    color: blueviolet;
+}
+.options div{
+    border-radius: 100%;
+    border: 2px solid black;
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    margin: auto 30px;
+    align-content: center;
+}
+
+#background{
+    background: white;
+    height: 120px;
+    margin-bottom: 30px;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#brown{
+    background-color: brown;
+}
